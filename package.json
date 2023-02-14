@@ -1,7 +1,7 @@
 {
   "name": "public-data-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/msj102525/public-data",
+  "homepage": "https://msj102525.github.io/public-data-app/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "tailwindcss": "^3.2.4"
   }
 }
